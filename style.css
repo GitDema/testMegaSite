@@ -118,6 +118,7 @@ a{
 .wrap-slider{
 	position: relative;
 	min-height: 500px;
+	overflow: hidden;
 }
 .slider{
 	min-height: 500px;
